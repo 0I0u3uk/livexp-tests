@@ -1,0 +1,13 @@
+.idea/*
+.allure
+target
+classes
+build
+allure-results
+out
+*.iml
+*.log
+.project
+.classpath
+.settings/*
+.gradle
